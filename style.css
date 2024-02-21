@@ -1,0 +1,45 @@
+body {
+    background-color: darkred;
+}
+  
+  h1 {
+    color:rgb(255, 205, 69);
+    text-align:left ;
+    font-family: sans-serif;
+    font-size: xx-large;
+  }
+
+  h2{
+    
+    color:rgb(255, 255, 255);
+    text-align:left ;
+    font-family: sans-serif;
+    font-size: 25px;
+    font-style: italic;
+    
+  }
+  
+h3 {
+    
+    color:rgb(255, 225, 57);
+    text-align:left ;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+  img {
+    border: 5px solid rgb(255, 205, 69);
+    max-width: 35%;
+  }
+  
+  p {
+
+    color:rgb(255, 255, 255);
+    text-align:left ;
+    font-family: sans-serif;
+    font-size: 15px;
+  }
+
+  a {
+    color:rgb(255, 255, 255);
+  }
